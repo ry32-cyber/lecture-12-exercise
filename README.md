@@ -7,14 +7,14 @@
 - Spirited Away
 - The Dark Knight Rises
 - Captain Marvel
-- Frozen II
 - JoJo Rabbit
+- Frozen II
 - AD Astra
 
 ## TV Shows
 
 - GOT
-- Schmitts Creek
 - Community
+- Schmitts Creek
 - Parks and Rec
--
+
